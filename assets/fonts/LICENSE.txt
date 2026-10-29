@@ -1,0 +1,9 @@
+Typsnitten i denna mapp används under SIL Open Font License, Version 1.1.
+
+jost-var-latin.woff2 (delmängd av Jost-VF.ttf)
+  Copyright 2020 The Jost Project Authors (https://github.com/indestructible-type/Jost)
+  Licens: SIL Open Font License 1.1 – http://scripts.sil.org/OFL
+
+inter-var-latin.woff2 (delmängd av Inter-VF.ttf)
+  Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter)
+  Licens: SIL Open Font License 1.1 – https://openfontlicense.org
